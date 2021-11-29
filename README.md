@@ -53,7 +53,7 @@ Process(가공형태)
 
 ex) 슬라이스, 절단, 캐비아대용, 팔렛, 한쪽껍질붙은, 훈제 
 
-![그림8](https://user-images.githubusercontent.com/76585610/143736120-a0743a03-020e-4cc7-95c2-afcd1fb5f880.png){: width="100" height="100"}
+![그림8](https://user-images.githubusercontent.com/76585610/143736120-a0743a03-020e-4cc7-95c2-afcd1fb5f880.png)
 
 
 Sashimi(횟감)
